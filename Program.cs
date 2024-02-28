@@ -1,5 +1,5 @@
 ﻿/* Nidhi Falak
-   Team member : Dharma
+   Team member : Dharma Teja
 In- class Sorting Assignment*/
 
 using System;
